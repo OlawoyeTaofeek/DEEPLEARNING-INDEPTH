@@ -39,7 +39,7 @@ class OpenAIClient:
             print("Error creating completion:", e)
             return None
     @staticmethod
-    def output_response(self, response):
+    def output_response(response):
         """Return the output from the API response."""
         if response:
             return response
