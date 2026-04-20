@@ -24,3 +24,4 @@ cifar-100-python.tar.gz
 .env
 *.env
 *.env
+*.env
