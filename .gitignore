@@ -25,3 +25,5 @@ cifar-100-python.tar.gz
 *.env
 *.env
 *.env
+chroma_db
+faiss_index

@@ -144,3 +144,10 @@ def process(doc: Document) -> List[Document]:
         page_content=text,
         metadata=doc.metadata  # preserve metadata
     )]
+
+class PyPDFLoader:
+    """Load PDF file.
+    
+
+    """
+    ...
